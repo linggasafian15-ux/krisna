@@ -1,5 +1,12 @@
 {
-  "rokokgrowenak-ux-001": {
+  "76enakepoll-ux-001": {
     "hwid": "PUT_HWID_1",
     "active": true,
     "expires": "2026-10-31"
+  },
+  "growrokokku-ux-002": {
+    "hwid": "PUT_HWID_2",
+    "active": true,
+    "expires": "2026-10-31"
+  }
+}
